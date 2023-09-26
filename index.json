@@ -1,0 +1,25 @@
+{
+    "redgreen" : [
+        "redgreen/basic",
+        "redgreen/levelup",
+        "redgreen/tm"
+    ],
+
+    "yellow" : [
+        "yellow/basic",
+        "yellow/levelup",
+        "yellow/tm"
+    ],
+
+    "goldsilver" : [
+        "goldsilver/levelup",
+        "goldsilver/tm",
+        "goldsilver/egg"
+    ],
+    "crystal" : [
+        "crystal/levelup",
+        "crystal/tm",
+        "crystal/tutor",
+        "crystal/egg"
+    ]
+}
