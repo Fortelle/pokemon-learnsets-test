@@ -26,3 +26,10 @@ jobs:
     - name: Build
       run: |
         python .scripts/build.py
+    - name: Commit
+      run: |
+        git config user.name "Fortelle[bot]"
+        git config user.email "Fortelle@outlook.com"
+        git add .
+        git commit -m "Auto build"
+        git push
