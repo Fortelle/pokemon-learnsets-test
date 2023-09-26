@@ -21,5 +21,150 @@
         "crystal/tm",
         "crystal/tutor",
         "crystal/egg"
+    ],
+
+    "rubysapphire" : [
+        "rubysapphire/levelup",
+        "rubysapphire/tm",
+        "rubysapphire/egg"
+    ],
+    "fireredleafgreen" : [
+        "firered/levelup",
+        "firered/tm",
+        "firered/egg",
+        "firered/tutor",
+        "firered/tutor_ult",
+        "leafgreen/levelup",
+        "leafgreen/tm",
+        "leafgreen/egg",
+        "leafgreen/tutor",
+        "leafgreen/tutor_ult"
+    ],
+    "emerald" : [
+        "emerald/levelup",
+        "emerald/tm",
+        "emerald/egg",
+        "emerald/tutor",
+        "emerald/special"
+    ],
+    "galeofdarkness" : [
+        "galeofdarkness/levelup",
+        "galeofdarkness/tm",
+        "galeofdarkness/egg",
+        "galeofdarkness/tutor",
+        "galeofdarkness/purification",
+        "galeofdarkness/mew_1",
+        "galeofdarkness/mew_2"
+    ],
+
+    "diamondpearl" : [
+        "diamondpearl/levelup",
+        "diamondpearl/tm",
+        "diamondpearl/tutor_ult",
+        "diamondpearl/egg",
+        "diamondpearl/special"
+    ],
+    "platinum" : [
+        "platinum/levelup",
+        "platinum/tm",
+        "platinum/tutor",
+        "platinum/tutor_ult",
+        "platinum/egg",
+        "platinum/special"
+    ],
+    "heartgoldsoulsilver" : [
+        "heartgoldsoulsilver/levelup",
+        "heartgoldsoulsilver/tm",
+        "heartgoldsoulsilver/tutor",
+        "heartgoldsoulsilver/tutor_ult",
+        "heartgoldsoulsilver/egg",
+        "heartgoldsoulsilver/special",
+        "heartgoldsoulsilver/pokewalker"
+    ],
+
+    "blackwhite" : [
+        "blackwhite/levelup",
+        "blackwhite/tm",
+        "blackwhite/tutor_ult",
+        "blackwhite/egg",
+        "blackwhite/special"
+    ],
+    "black2white2" : [
+        "black2white2/levelup",
+        "black2white2/tm",
+        "black2white2/tutor",
+        "black2white2/tutor_ult",
+        "black2white2/egg",
+        "black2white2/special"
+    ],
+
+    "xy" : [
+        "xy/levelup",
+        "xy/tm",
+        "xy/tutor_ult",
+        "xy/egg",
+        "xy/special"
+    ],
+    "omegarubyalphasapphire" : [
+        "omegarubyalphasapphire/levelup",
+        "omegarubyalphasapphire/tm",
+        "omegarubyalphasapphire/tutor",
+        "omegarubyalphasapphire/tutor_ult",
+        "omegarubyalphasapphire/egg",
+        "omegarubyalphasapphire/special"
+    ],
+
+    "sunmoon" : [
+        "sunmoon/levelup",
+        "sunmoon/tm",
+        "sunmoon/tutor_ult",
+        "sunmoon/egg",
+        "sunmoon/zmove",
+        "sunmoon/special"
+    ],
+    "ultrasunultramoon" : [
+        "ultrasunultramoon/levelup",
+        "ultrasunultramoon/tm",
+        "ultrasunultramoon/tutor",
+        "ultrasunultramoon/tutor_ult",
+        "ultrasunultramoon/egg",
+        "ultrasunultramoon/zmove",
+        "ultrasunultramoon/special"
+    ],
+
+    "letsgopikachueevee" : [
+        "letsgopikachueevee/levelup",
+        "letsgopikachueevee/tm"
+    ],
+    "swordshield" : [
+        "swordshield@1.3.0/levelup",
+        "swordshield@1.3.0/tm",
+        "swordshield@1.3.0/tr",
+        "swordshield@1.3.0/tutor_ult",
+        "swordshield@1.3.0/tutor",
+        "swordshield@1.3.0/egg",
+        "swordshield@1.3.0/special"
+    ],
+
+    "brilliantdiamondshiningpearl" : [
+        "brilliantdiamondshiningpearl/levelup",
+        "brilliantdiamondshiningpearl/tm",
+        "brilliantdiamondshiningpearl/tutor",
+        "brilliantdiamondshiningpearl/egg",
+        "brilliantdiamondshiningpearl/special"
+    ],
+
+    "legendsarceus" : [
+        "legendsarceus/levelup",
+        "legendsarceus/tutor",
+        "legendsarceus/special"
+    ],
+
+    "scarletviolet" : [
+        "scarletviolet@2.0.1/levelup",
+        "scarletviolet@2.0.1/reminder",
+        "scarletviolet@2.0.1/tm",
+        "scarletviolet@2.0.1/egg",
+        "scarletviolet@2.0.1/special"
     ]
 }
