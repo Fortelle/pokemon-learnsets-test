@@ -9,11 +9,6 @@
         "level": 1
       },
       {
-        "move": 45,
-        "method": "levelup",
-        "level": 1
-      },
-      {
         "move": 73,
         "method": "levelup",
         "level": 7
