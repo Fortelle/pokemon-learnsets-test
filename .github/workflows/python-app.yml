@@ -26,18 +26,12 @@ jobs:
     - name: Build
       run: |
         python .scripts/build.py
-    - name: Check changes
-      run: |
-        if git diff --exit-code; then
-          echo "::set-env name=changed::false"
-        else
-          echo "::set-env name=changed::true"
-        fi
     - name: Commit
-      if: env.changed == 'true'
       run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add .
-        git commit -m "Auto build"
-        git push
+        if ! git diff --exit-code; then
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto build"
+          git push
+        fi
