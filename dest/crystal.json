@@ -378,36 +378,6 @@
         "move": 148,
         "method": "tm",
         "item": "HM05"
-      },
-      {
-        "move": 113,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
-      },
-      {
-        "move": 130,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
-      },
-      {
-        "move": 219,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
-      },
-      {
-        "move": 13,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
-      },
-      {
-        "move": 80,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
       }
     ]
   },
@@ -609,36 +579,6 @@
         "move": 148,
         "method": "tm",
         "item": "HM05"
-      },
-      {
-        "move": 113,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
-      },
-      {
-        "move": 130,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
-      },
-      {
-        "move": 219,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
-      },
-      {
-        "move": 13,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
-      },
-      {
-        "move": 80,
-        "method": "egg",
-        "pokemon": 1,
-        "form": 0
       }
     ]
   },
